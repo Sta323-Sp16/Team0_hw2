@@ -1,6 +1,6 @@
 is_valid = function(g)
 {
-    return(FALSE)
+    return(TRUE)
 }
 
 
